@@ -3,6 +3,9 @@ body
     background-color: rgba(209, 218, 224, 0.89);
     
 }
+a{
+    text-decoration: none
+}
 .parent
 {
     margin-top: 240px;
